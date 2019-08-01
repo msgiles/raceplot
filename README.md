@@ -5,7 +5,9 @@ Given race data (position, elevation, heartrate) indexed by seconds, creates a v
 # Data Sources
 __Pace and Heart Rate__: My Garmin running watch
 
+
 __Elevation Data__: [The National Map](https://viewer.nationalmap.gov/basic/)
+
 
 __Route Data__: [Caltopo.com](https://caltopo.com/map.html)
 
